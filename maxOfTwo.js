@@ -1,4 +1,4 @@
-// A function that returns maximum of two
+// Returns maximum of two...
 
 max(1, 2); // Output: 2
 max(2, 2); // Output: 2
