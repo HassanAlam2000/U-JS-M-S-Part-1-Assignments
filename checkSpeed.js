@@ -15,5 +15,5 @@ function checkSpeed(speed) {
 
     if (points <= 0) return 'OK!';
     if (points >= 12) return 'License Suspended!';
-    else return `Points: ${points}`
+    else return `Points: ${points}`;
 }
